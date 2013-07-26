@@ -1,4 +1,4 @@
-h2. SAYSSP: Energy Efficiency in Sustainable Mining Industry
+h4. SAYSSP: Energy Efficiency in Sustainable Mining Industry
 
 This repository contains files for members of Energy Efficiency in Sustainable Mining Industry project of the SAYSSP (Southern African Young Scientist Summer Program). The repository is composed of the following directories:
 * project: contains the project description;
@@ -7,6 +7,6 @@ This repository contains files for members of Energy Efficiency in Sustainable M
 
 Each directory contains the corresponding short description of its content. More files will be added to the repository as needed.
 
-h2. Two easy ways for importing the repository to a local computer:
+h4. Two easy ways for importing the repository to a local computer:
 * by cloning the repository using git ($git clone git://github.com/iiasa-ime/SAYSSP.git);
 * by downloading the repository as the zip file (using the ZIP button).
