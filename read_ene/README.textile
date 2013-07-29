@@ -1,5 +1,12 @@
 h4. Recommended reading on the Energy topics
 
-This directory contains the PDF files for focused on various Energy topics relevant for members of Energy Efficiency in Sustainable Mining Industry project of the SAYSSP. Currently there is only one file, more files will be posted soon:
+This directory contains the PDF files for focused on various Energy topics relevant for members of _Energy Efficiency in Sustainable Mining Industry_ project of the SAYSSP. Currently there is only one file, more files will be posted soon:
 
+h5. Basic reading
+
+_(to be posted soon)_
+
+h5. Supplementary reading
+
+_(more items will be posted soon)_
 * mm_cchange13.pdf: Example of using MCA (Multiple-Criteria Analysis) for resolving challenges of climate, energy and air-pollution policy

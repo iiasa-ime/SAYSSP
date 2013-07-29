@@ -1,3 +1,3 @@
 h4. Project description
 
-Short description of the Energy Efficiency in Sustainable Mining Industry project is provided in project_descr.pdf
+Short description of the _Energy Efficiency in Sustainable Mining Industry_ project of the SAYSSP is provided in project_descr.pdf
