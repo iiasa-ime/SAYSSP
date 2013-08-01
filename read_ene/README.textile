@@ -3,8 +3,10 @@ h4. Recommended reading on the Energy topics
 This directory contains the PDF files for focused on various Energy topics relevant for members of _Energy Efficiency in Sustainable Mining Industry_ project of the SAYSSP. Currently there is only one file, more files will be posted soon:
 
 h5. Basic reading
+* govend.pdf: Energy Saving Mechanisms in the Mining Industry: a Case Study of Switching off Non-Essential Power, (Govender 2008)
+* lcg_rep.pdf: Investigation of Current Research Relates to the Reduction of Energy Usage in Mines, (LCG Energy Management Group, 2009)
+* mine_en_guid.pdf: Mine Energy Guidelines
 
-_(to be posted soon)_
 
 h5. Supplementary reading
 
